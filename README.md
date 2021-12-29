@@ -76,12 +76,6 @@ To test the **graph** constructor, we would create multiple graph objects from c
 
 To test the **visualizer** constructor, our testing was divided into two parts. The first part was making sure the airports were properly converted from latitude and longitude to x and y on a png file. We would verify where a certain airport would be using the mercator equation, and then made sure that the function airportgrapher put it at the proper pixel position on the image. The second part was making sure everything was drawn properly on the image. We first tested airport plotting, making sure the graph had the proper amount of ports at the right positions. Then, we tested the draw route method to make sure it drew in routes properly. Lastly, we ran the shortest path algorithm to make sure it works on the whole dataset. the results would be outputted to pngs inside of the visualizer folder.
 
-# Presentation
-
-Presentation Link: https://drive.google.com/file/d/1XJsamuH0Ybvqg9BCzZgsJQypw9UsUA6x/view?usp=sharing
-
-Slides link: https://docs.google.com/presentation/d/1-pCiXayABEzbJkBeZxKGkiz23fa-3bFSz4hNXJlRrbg/edit?usp=sharing
-
 # Acknowledgements
 
 This is our final project for UIUC CS 225\
