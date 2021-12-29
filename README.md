@@ -87,4 +87,3 @@ Slides link: https://docs.google.com/presentation/d/1-pCiXayABEzbJkBeZxKGkiz23fa
 This is our final project for UIUC CS 225\
 Our data is taken from OpenFlights\
 Our world map is attributed to wikipedia: https://en.wikipedia.org/wiki/Mercator_projection , By Strebe - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17700069
-# Openflights_Visualization
