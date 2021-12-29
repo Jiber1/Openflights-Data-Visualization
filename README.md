@@ -40,6 +40,8 @@ To run the project, first run the following commands:
 
 `project$ chmod +x test.sh`
 
+`project$ chmod +x main.sh`
+
 `project$ ./run.sh`
 
 `./run.sh` is a combination of bake, which compiles the project, and tests, which will run the test suite and make sure everything is working properly.
