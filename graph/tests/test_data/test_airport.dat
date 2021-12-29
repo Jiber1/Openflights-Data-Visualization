@@ -1,0 +1,10 @@
+Airport ID,Name,City,Country,IATA,ICAO,Latitude,Longitude,Altitude,Timezone,DST,Tz database time zone, Type, Source
+3830,"Chicago O'Hare International Airport","Chicago","United States","ORD","KORD",41.9786,-87.9048,672,-6,"A","America/Chicago","airport","OurAirports"
+3685,"Gerald R. Ford International Airport","Grand Rapids","United States","GRR","KGRR",42.88079834,-85.52279663,794,-5,"A","America/New_York","airport","OurAirports"
+3653,"Austin Straubel International Airport","Green Bay","United States","GRB","KGRB",44.48509979248047,-88.12960052490234,695,-6,"A","America/Chicago","airport","OurAirports"
+4009,"Joe Foss Field Airport","Sioux Falls","United States","FSD","KFSD",43.582000732400004,-96.741897583,1429,-6,"A","America/Chicago","airport","OurAirports"
+4041,"Fort Wayne International Airport","Fort Wayne","United States","FWA","KFWA",40.97850037,-85.19509888,814,-5,"A","America/New_York","airport","OurAirports"
+2170,"Queen Alia International Airport","Amman","Jordan","AMM","OJAI",31.7226009369,35.9931983948,2395,2,"E","Asia/Amman","airport","OurAirports"
+3838,"Watertown International Airport","Watertown","United States","ART","KART",43.99190139770508,-76.02169799804688,325,-5,"A","America/New_York","airport","OurAirports"
+3682,"Hartsfield Jackson Atlanta International Airport","Atlanta","United States","ATL","KATL",33.6367,-84.428101,1026,-5,"A","America/New_York","airport","OurAirports"
+2179,"Abu Dhabi International Airport","Abu Dhabi","United Arab Emirates","AUH","OMAA",24.433000564575195,54.651100158691406,88,4,"U","Asia/Dubai","airport","OurAirports"

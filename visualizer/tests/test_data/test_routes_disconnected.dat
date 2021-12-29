@@ -1,0 +1,11 @@
+Airline,Airline ID, Source airport, Source airport ID, Destination airport, Destination airport ID, Codeshare, Stops, Equipment
+2B,410,AER,2965,KZN,2990foo,123,0,CR2
+foo,123,GKA,1,MAG,2,0,0,bar
+foo,123,GKA,1,WWK,6,0,0,bar
+foo,123,MAG,2,HGU,3,0,0,bar
+foo,123,POM,5,LAE,4,0,0,bar
+foo,123,UAK,7,GKA,1,0,0,bar
+foo,123,GOH,8,LAE,4,0,0,bar
+foo,123,GOH,8,SFJ,9,0,0,bar
+foo,123,THU,10,SFJ,9,0,0,bar
+foo,123,THU,10,POM,5,0,0,bar

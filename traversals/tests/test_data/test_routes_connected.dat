@@ -1,0 +1,21 @@
+Airline,Airline ID, Source airport, Source airport ID, Destination airport, Destination airport ID, Codeshare, Stops, Equipment
+foo,123,GKA,1,MAG,2,0,0,bar
+foo,123,GKA,1,WWK,6,0,0,bar
+foo,123,MAG,2,HGU,3,0,0,bar
+foo,123,POM,5,LAE,4,0,0,bar
+foo,123,UAK,7,GKA,1,0,0,bar
+foo,123,GOH,8,MAG,2,0,0,bar
+foo,123,GOH,8,LAE,4,0,0,bar
+foo,123,GOH,8,SFJ,9,0,0,bar
+foo,123,THU,10,SFJ,9,0,0,bar
+foo,123,THU,10,POM,5,0,0,bar
+foo,123,MAG,2,GKA,1,0,0,bar
+foo,123,WWK,6,GKA,1,0,0,bar
+foo,123,HGU,3,MAG,2,0,0,bar
+foo,123,LAE,4,POM,5,0,0,bar
+foo,123,GKA,1,UAK,7,0,0,bar
+foo,123,MAG,2,GOH,8,0,0,bar
+foo,123,LAE,4,GOH,8,0,0,bar
+foo,123,SFJ,9,GOH,8,0,0,bar
+foo,123,SFJ,9,THU,10,0,0,bar
+foo,123,POM,5,THU,10,0,0,bar

@@ -1,0 +1,5 @@
+#include "visualizer.h"
+#include "PNG.h"
+#include "HSLAPixel.h"
+#include "RGB_HSL.h"
+#include "lodepng.h"
